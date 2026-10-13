@@ -1,7 +1,7 @@
 # Stitch Image Extractor PRO 🚀
 
 [![Live Demo](https://img.shields.io/badge/Live-GitHub%20Pages-6366f1?style=for-the-badge)](https://cjrsantos.github.io/Stitch-Image-Extractor-PRO-/)
-[![Gumroad](https://img.shields.io/badge/Get%20on-Gumroad-ff90e8?style=for-the-badge&logo=gumroad)](https://rengifosantos.gumroad.com/l/hxubno)
+[![Gumroad](https://img.shields.io/badge/Get%20on-Gumroad-ff90e8?style=for-the-badge&logo=gumroad)](https://rengifosantos.gumroad.com/l/stitch-extractor-pro)
 [![License](https://img.shields.io/badge/License-Commercial%20%2F%20Personal-10b981?style=for-the-badge)](#)
 
 > **Extractor y desanidador inteligente para Google Stitch AI.**  
@@ -36,7 +36,7 @@ Tener que abrir y cerrar decenas de carpetas a mano para extraer tus diseños de
 
 ## 💻 Tienda Oficial en Gumroad
 Puedes adquirir el paquete completo listo para escritorio con lanzador rápido de 1 clic para Windows aquí:
-👉 **[Comprar en Gumroad ($9.99 USD)](https://rengifosantos.gumroad.com/l/hxubno)**
+👉 **[Comprar en Gumroad ($9.99 USD)](https://rengifosantos.gumroad.com/l/stitch-extractor-pro)**
 
 ---
 
